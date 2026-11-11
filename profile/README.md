@@ -31,7 +31,7 @@ open source under the MIT License.
   download at all. It runs on an ordinary office PC without a graphics card.
 - **Three engines in one window.** llama.cpp built in; Ollama and ComfyUI installed when you ask.
 - **For your other apps, too.** An OpenAI-compatible API on your own machine, MCP tools for your model, and
-  `quickai-run` for a server with no display.
+  `quickai-headless` for a server with no display.
 
 [Download](https://github.com/everybodyai/quickai/releases/latest) ·
 [Website](https://quickai.everybodyai.dev) ·
