@@ -8,7 +8,7 @@
 <h3 align="center">Private AI for everybody</h3>
 
 <p align="center">
-  We make AI tools that run on your own computer, so that using AI never means handing over your words or your files.
+  We make AI tools that run on your own computer, so that using AI doesn't have to mean handing over your words or your files.
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 vision, voice, documents, images and video. It is a small desktop app for Windows, macOS and Linux, written in Rust, and
 open source under the MIT License.
 
-- **Private by default.** The models run on your computer and the servers it starts listen on `127.0.0.1` only. Your
-  prompts, the replies, your voice and your files never leave it. No account, no telemetry.
+- **Private by default.** The models run on your computer and the servers it starts listen on `127.0.0.1` only. It is
+  designed to keep your prompts, the replies, your voice and your files there. No account, no telemetry.
 - **Works out of the box.** One download comes with llama.cpp and the Bonsai 2 4B model, so the first chat needs no
   download at all. It runs on an ordinary office PC without a graphics card.
 - **Three engines in one window.** llama.cpp built in; Ollama and ComfyUI installed when you ask.
