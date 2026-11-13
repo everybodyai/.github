@@ -41,7 +41,7 @@ Rust, and open source under the MIT License.
 [Discussions](https://github.com/everybodyai/quickai/discussions)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/everybodyai/quickai/main/assets/readme/quickai-light.png" width="720" alt="The QuickAI window running Bonsai 2 4B: the models in the sidebar, a reply in the chat, and how the model runs in the panel at the right.">
+  <img src="https://raw.githubusercontent.com/everybodyai/quickai/main/assets/readme/quickai-light.png" width="720" alt="The QuickAI window running Bonsai 2 4B: the model in the sidebar, a reply in the chat with Read aloud under it, and the chat box with the microphone.">
 </p>
 
 ### Also here
